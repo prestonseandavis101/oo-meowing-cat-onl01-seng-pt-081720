@@ -1,3 +1,3 @@
 class Cat
-  attr_accessor : "Maru"
+  attr_accessor :name
 end
